@@ -1,4 +1,4 @@
-# Mazon Project 🚀
+# Mazon Project 
 ### A sleek, e-commerce experience inspired by Amazon.
 
 Built by **Abdelrahman Hamshary**, Mazon is a lightweight web application that demonstrates full-stack integration using MongoDB Atlas, Express, React, and Node.js. It features a responsive UI, real-time data fetching, and a modern aesthetic.
