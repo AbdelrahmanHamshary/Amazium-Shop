@@ -1,7 +1,7 @@
-# Mazon Project 
-### A sleek, e-commerce experience inspired by Amazon.
+# Amazium Shop Project 
+### A sleek, e-commerce experience inspired by AAmazium Shop.
 
-Built by **Abdelrahman Hamshary**, Mazon is a lightweight web application that demonstrates full-stack integration using MongoDB Atlas, Express, React, and Node.js. It features a responsive UI, real-time data fetching, and a modern aesthetic.
+Built by **Abdelrahman Hamshary**, Amazium Shop is a lightweight web application that demonstrates full-stack integration using MongoDB Atlas, Express, React, and Node.js. It features a responsive UI, real-time data fetching, and a modern aesthetic.
 
 ---
 
@@ -66,7 +66,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-Mazon/
+Amazium Shop/
 ├── backend/
 │   ├── models/        # Database schemas
 │   ├── routes/        # API endpoints
