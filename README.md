@@ -27,7 +27,7 @@ Built by **Abdelrahman Hamshary**, Amazium Shop is a lightweight web application
 
 ##  Notes
 - **Security:** Ensure your `.env` file is included in your `.gitignore` to prevent leaking MongoDB credentials.
-- **Extensibility:** You can easily add more products via the MongoDB Atlas GUI or by creating a POST route.
+- **Extensibility:** You can easily add more products via the MYSQL GUI or by creating a POST route.
 
 ---
 # Week 6: Checkout
