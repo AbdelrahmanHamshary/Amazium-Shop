@@ -1,0 +1,5 @@
+Student: abdelrahman hamdy
+ID: 202002570
+Project: amazium.shop
+Week: 6
+GeneratedAt: 2026-03-26T06:23:44.563Z
