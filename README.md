@@ -1,5 +1,5 @@
 # Amazium Shop Project 
-### A sleek, e-commerce experience inspired by AAmazium Shop.
+### A sleek, e-commerce experience inspired by Amazium Shop.
 
 Built by **Abdelrahman Hamshary**, Amazium Shop is a lightweight web application that demonstrates full-stack integration using MongoDB Atlas, Express, React, and Node.js. It features a responsive UI, real-time data fetching, and a modern aesthetic.
 
