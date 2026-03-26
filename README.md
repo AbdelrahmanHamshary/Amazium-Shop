@@ -1,7 +1,7 @@
 # Amazium Shop Project 
 ### A sleek, e-commerce experience inspired by Amazium Shop.
 
-Built by **Abdelrahman Hamshary**, Amazium Shop is a lightweight web application that demonstrates full-stack integration using MongoDB Atlas, Express, React, and Node.js. It features a responsive UI, real-time data fetching, and a modern aesthetic.
+Built by **Abdelrahman Hamshary**, Amazium Shop is a lightweight web application that demonstrates full-stack integration using MYSQL, React, and Node.js. It features a responsive UI, real-time data fetching, and a modern aesthetic.
 
 ---
 
@@ -11,73 +11,17 @@ Built by **Abdelrahman Hamshary**, Amazium Shop is a lightweight web application
 | :--- | :--- |
 | **Frontend** | React.js, CSS3 (Flexbox/Grid) |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB Atlas |
+| **Database** | MYSQL |
 | **Tooling** | Git, VS Code, NPM |
 
 ---
 
 ##  Features
 
-- **Dynamic Product Catalog:** Fetches real-time product data (images, descriptions, prices) from MongoDB.
+- **Dynamic Product Catalog:** Fetches real-time product data (images, descriptions, prices) from MYSQL.
 - **Responsive Design:** Optimized for seamless viewing on mobile, tablet, and desktop.
 - **Interactive UI:** Modern card layouts with smooth CSS hover animations.
 
-
----
-
-##  Getting Started
-
-### Prerequisites
-- Node.js installed on your machine.
-- A MongoDB Atlas account and cluster.
-
-### 1. Backend Setup
-```bash
-# Navigate to the backend directory
-cd backend
-
-# Install dependencies
-npm install
-
-# Configure Environment Variables
-# Create a .env file in the /backend folder and add:
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-
-# Start the server
-node server.js
-```
-*The server will run on http://localhost:5000*
-
-### 2. Frontend Setup
-```bash
-# Navigate to the frontend directory
-cd frontend
-
-# Install dependencies
-npm install
-
-# Launch the development server
-npm run dev
-```
-*The UI will run on http://localhost:5173*
-
----
-
-## 📂 Project Structure
-```text
-Amazium Shop/
-├── backend/
-│   ├── models/        # Database schemas
-│   ├── routes/        # API endpoints
-│   └── server.js      # Entry point
-├── frontend/
-│   ├── src/
-│   │   ├── components/ # Reusable UI elements
-│   │   └── App.js      # Main logic
-│   └── public/
-└── README.md
-```
 
 ---
 
@@ -86,6 +30,27 @@ Amazium Shop/
 - **Extensibility:** You can easily add more products via the MongoDB Atlas GUI or by creating a POST route.
 
 ---
+# Week 6: Checkout
+
+## Previous Progress
+We reached a significant milestone in Week 5 by adding detailed product pages, rounding out the browsing experience.
+
+## Current Project State (Week 6)
+In this week, we focused on implementing:
+- **Multi-Step Checkout Flow**: A guided experience to collect shipping and billing information.
+- **Order Review**: A comprehensive final check for users before committing to a purchase.
+- **Form Persistence**: Ensuring address and shipping data are handled accurately through the multi-stage checkout.
+- **Input Validation**: Robust client-side checks to prevent incorrect order information.
+
+The project now supports a complete end-to-end shopping experience, from browsing to checkout.
+
+## Future Expectations (Week 7)
+Next week, we plan to implement: **Order Management**
+
+## Student Information
+- **Name**: abdelrahman hamdy
+- **ID**: 202002570
+
 
 ##  Author
 **Abdelrahman Hamshary**
