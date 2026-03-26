@@ -48,7 +48,7 @@ The project now supports a complete end-to-end shopping experience, from browsin
 Next week, we plan to implement: **Order Management**
 
 ## Student Information
-- **Name**: abdelrahman hamdy
+- **Name**: Abdelrahman Hamshary
 - **ID**: 202002570
 
 
