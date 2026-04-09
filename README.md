@@ -16,5 +16,5 @@ The project now supports the user at the center of the experience, with powerful
 Next week, we plan to implement: **Product Reviews & Ratings**
 
 ## Student Information
-- **Name**: abdelrahman hamdy
+- **Name**: Abdelrahman El-Hamshary
 - **ID**: 202002570
