@@ -1,20 +1,20 @@
-# Week 8: User Profile
+# Week 9: Reviews Ratings
 
 ## Previous Progress
-The shop’s core functionality—browsing, cart, checkout, and order history—has been completed up through Week 7.
+The application reached maturity by Week 8, supporting a full user account and order management lifecycle.
 
-## Current Project State (Week 8)
+## Current Project State (Week 9)
 In this week, we focused on implementing:
-- **Profile Dashboard**: A central hub for managing personal information.
-- **Address Book Management**: Ability for users to save multiple shipping addresses for faster checkout.
-- **Security Settings**: Implementation of account update features, including password changes.
-- **Preference Controls**: Personalized settings to tailor the shopping experience.
+- **Comprehensive Review System**: Users can now leave detailed feedback on products they’ve purchased.
+- **Star Rating UI**: A modern, interactive star-rating component for quick evaluations.
+- **Review Moderation Readiness**: Backend structures are in place to manage and display reviews.
+- **Filtering by Rating**: Users can now sort product views by top-rated items.
 
-The project now supports the user at the center of the experience, with powerful tools to manage their account.
+The project now supports community-driven content, making the shop more trustworthy and engaging.
 
-## Future Expectations (Week 9)
-Next week, we plan to implement: **Product Reviews & Ratings**
+## Future Expectations (Week 10)
+Next week, we plan to implement: **Admin Dashboard**
 
 ## Student Information
-- **Name**: Abdelrahman El-Hamshary
+- **Name**: abdelrahman hamdy
 - **ID**: 202002570
