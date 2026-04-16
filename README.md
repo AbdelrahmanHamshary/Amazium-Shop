@@ -16,5 +16,5 @@ The project now supports community-driven content, making the shop more trustwor
 Next week, we plan to implement: **Admin Dashboard**
 
 ## Student Information
-- **Name**: abdelrahman hamdy
+- **Name**: Abdelrahman El-Hamshary
 - **ID**: 202002570
