@@ -1,20 +1,20 @@
-# Week 9: Reviews Ratings
+# Week 11: Payment
 
 ## Previous Progress
-The application reached maturity by Week 8, supporting a full user account and order management lifecycle.
+By Week 10, the storefront handled both user journeys and administrative tasks flawlessly.
 
-## Current Project State (Week 9)
+## Current Project State (Week 11)
 In this week, we focused on implementing:
-- **Comprehensive Review System**: Users can now leave detailed feedback on products they’ve purchased.
-- **Star Rating UI**: A modern, interactive star-rating component for quick evaluations.
-- **Review Moderation Readiness**: Backend structures are in place to manage and display reviews.
-- **Filtering by Rating**: Users can now sort product views by top-rated items.
+- **Payment Gateway Simulation**: Integration points for services like Stripe or PayPal.
+- **Secure Transaction Logic**: Ensuring that payments are validated before an order is officially confirmed.
+- **Success & Failure States**: Robust handling of various payment outcomes with user-friendly feedback.
+- **Transaction History**: Secure logging of payment statuses within the order management system.
 
-The project now supports community-driven content, making the shop more trustworthy and engaging.
+The project now supports real-world deployment with a robust payment architecture.
 
-## Future Expectations (Week 10)
-Next week, we plan to implement: **Admin Dashboard**
+## Future Expectations (Week 12)
+Next week, we plan to implement: **Wishlist & Recommendations**
 
 ## Student Information
-- **Name**: Abdelrahman El-Hamshary
+- **Name**: abdelrahman hamdy
 - **ID**: 202002570
