@@ -16,5 +16,5 @@ The project now supports real-world deployment with a robust payment architectur
 Next week, we plan to implement: **Wishlist & Recommendations**
 
 ## Student Information
-- **Name**: abdelrahman hamdy
+- **Name**: Abdelrahman Hamshary
 - **ID**: 202002570
