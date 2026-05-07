@@ -1,20 +1,9 @@
-# Week 11: Payment
+# Week label for UI (1–14)
+VITE_PUBLISHED_WEEK=10
 
-## Previous Progress
-By Week 10, the storefront handled both user journeys and administrative tasks flawlessly.
+# Full URL of the Amazium API (no trailing slash). Required for auth, orders, session check.
+# Production API talks to MySQL on the VPS — your browser never connects to MySQL directly.
+VITE_API_BASE_URL=https://amazium.shop
 
-## Current Project State (Week 11)
-In this week, we focused on implementing:
-- **Payment Gateway Simulation**: Integration points for services like Stripe or PayPal.
-- **Secure Transaction Logic**: Ensuring that payments are validated before an order is officially confirmed.
-- **Success & Failure States**: Robust handling of various payment outcomes with user-friendly feedback.
-- **Transaction History**: Secure logging of payment statuses within the order management system.
-
-The project now supports real-world deployment with a robust payment architecture.
-
-## Future Expectations (Week 12)
-Next week, we plan to implement: **Wishlist & Recommendations**
-
-## Student Information
-- **Name**: Abdelrahman Hamshary
-- **ID**: 202002570
+# Optional: only used by `npm run dev` — where to proxy `/api` if you leave VITE_API_BASE_URL empty
+# VITE_API_PROXY_TARGET=https://amazium.shop
